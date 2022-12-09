@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ajay-react",
+			"path": ".."
+		},
+		{
+			"name": "ajay-laravel",
+			"path": "../../ajay-laravel"
+		}
+	],
+	"settings": {}
+}
